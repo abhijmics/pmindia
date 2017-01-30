@@ -1,0 +1,58 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	background: #7FFF00;
+}
+
+header
+{
+	text-align: center;
+	width:100%;
+     margin: 0px 0px;
+	background: #1E90FF;
+	height:100px;
+	border-bottom: 2px solid green;
+	padding: 0px 0px;
+}
+
+header h1
+{
+	margin-top: 0px;
+	padding-top:0px;
+}
+
+aside
+{
+	float: left;
+	height: 800px;
+	background: #8B008B;
+	border-right: #1E90FF;
+	color: white;
+	font-size: 25px;
+	width: 215px;
+
+}
+
+aside h5
+{
+	margin: 5px 5px;
+	padding: 5px 5px;
+	text-align: center;
+	font-size: 22px;
+	font-family: sans-serif;
+}
+
+aside li,a:link,a:visited
+{
+	color: white;
+	text-decoration: none;
+	font-family: sans-serif;
+    list-style: none;
+    margin: 20px 0px;
+}
+
+#view a:link,a:visited
+{
+color: #DC143C;
+}

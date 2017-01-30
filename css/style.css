@@ -1,0 +1,136 @@
+#header1
+{
+	float: left;
+}
+#header2
+{
+	float: right;
+}
+
+#menu
+{
+	width: 700px;
+	float: left;
+}
+
+#menu ul
+{
+	margin: 0;
+	padding: 0;
+	line-height: 4em;
+}
+
+
+#menu ul li
+{
+text-decoration: unset;
+display: inline;
+margin: 10px;
+width: 80px;
+color: yellow;
+}
+
+
+#searchbox
+{
+	float:right;
+	margin: 15px;
+}
+
+
+#top
+{
+	background: #191970;
+	
+	width: 100%;
+	height: 40px;
+	text-align: center;
+	color: white;
+}
+
+#date
+{
+	margin: 6px 40px;
+	float:right;
+	border:5px solid green;
+	background:orange;
+	border-radius: 30px;
+	text-align: center;
+	width: 360px;
+
+}
+
+
+
+#header
+{
+	width: 1000px;
+	height: 150px;
+	margin: auto;
+}
+
+
+#navbar
+{
+	width: 1000px;
+	margin: 0 auto;
+	background: #B8860B;
+	height: 60px;
+}
+
+
+
+#main_post
+{	
+   width:730px;
+   background: #00FFFF;
+   margin: 0 auto;
+   float: left;
+   margin-left: 167px;
+   border-right: solid gray;
+   padding: 5px;
+   font-family: monospace;
+   font-size: 20px;
+}
+
+#main_post a:link, a:visited
+{
+
+	text-decoration: none;
+	color: #8B0000;
+	font-size: 25px;
+	margin-right: 6px;
+}
+
+#sidebar
+{
+	width: 255px;
+	background:#8B008B;
+	float: right;
+	margin-right: 166px;
+
+}
+
+#email_box
+{
+	text-align:center;
+	font-style: italic;
+	color: yellow;
+}
+
+#email_box h2 a
+{
+	color: yellow;
+}
+#foot
+{
+      clear: both;	
+	width: 1000px;
+	color: yellow;
+	background: #0000FF;
+	margin: 0 auto;
+	height: 90px;
+	text-align: center;
+	font-family: comic sans MS;
+}
+

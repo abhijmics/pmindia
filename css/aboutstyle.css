@@ -1,0 +1,29 @@
+#top
+{
+	width: 100%;
+	height: 80px;
+	background: blue;
+}
+
+#head
+{
+	width:100%;
+	height: 100px;
+	background: yellow;
+}
+
+#main
+{
+	float: left;
+     width: 65%;
+     height: 500px;
+     background: pink;
+}
+
+#side
+{
+   width: 35%;
+   height: 500px;
+   float: right;
+   background: green;
+}
